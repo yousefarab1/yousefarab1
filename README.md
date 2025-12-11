@@ -3,7 +3,7 @@
 ✨ Hi, I’m Yousef
 
 🌍 From Egypt
-💻 Frontend Developer (or عدّلها حسب مجالك)
+💻 Frontend Developer 
 📚 بحب أتعلم تقنيات جديدة وأشتغل على مشاريع تحسّن مستوايا
 
 🚀 Skills
@@ -12,7 +12,7 @@ HTML / CSS / JavaScript
 
 Git & GitHub
 
-(زود تقنيات تانية انت بتستخدمها)
+
 
 📌 Current Focus
 
@@ -22,6 +22,6 @@ Git & GitHub
 
 📫 Contact Me
 
-Email: your-email@example.com
+Email: yousefarabi15@gmail.com
 
-LinkedIn: your-link
+WhatsApp: 01280482972
