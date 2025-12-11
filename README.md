@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**yousefarab1/yousefarab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Hi, I’m Yousef
 
-Here are some ideas to get you started:
+🌍 From Egypt
+💻 Frontend Developer (or عدّلها حسب مجالك)
+📚 بحب أتعلم تقنيات جديدة وأشتغل على مشاريع تحسّن مستوايا
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+
+HTML / CSS / JavaScript
+
+Git & GitHub
+
+(زود تقنيات تانية انت بتستخدمها)
+
+📌 Current Focus
+
+شغال دلوقتي على تطوير نفسي في Frontend
+
+بشتغل على مشاريع بسيطة بدون Framework عشان أقوّي الأساسيات
+
+📫 Contact Me
+
+Email: your-email@example.com
+
+LinkedIn: your-link
